@@ -1,4 +1,4 @@
-# Tour360 - Java Based Desktop Application
+# Tour360
 
 ## Overview
 
