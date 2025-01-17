@@ -1,7 +1,5 @@
 # Tour360
 
-## Overview
-
 Tour360 is a Java-based desktop application designed to provide users with a platform for exploring and booking tour packages.
 
 ## Features
