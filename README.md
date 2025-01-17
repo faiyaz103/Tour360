@@ -2,7 +2,7 @@
 
 ## Overview
 
-Tour360 is a Java-based desktop application developed as a part of the Advanced Programming Laboratory (CSE 2200) course at Khulna University of Engineering and Technology. The application allows users to sign up, log in, retrieve their password using a security question, view and update their account information, and view and book tour packages.
+Tour360 is a Java-based desktop application designed to provide users with a platform for exploring and booking tour packages.
 
 ## Features
 
